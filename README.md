@@ -1,6 +1,6 @@
 # Intro to Gradient Boosting
 
-# Here I will learn how gradient boosting combines several weak models into a strong model.
+# Here I will learn how gradient boosting combines several models into a strong model.
 
 ## Learning objectives
 
